@@ -3,7 +3,7 @@
 🎓 B.Tech CSE (Data Science) @ Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad  
 📍 Jhalawar, Rajasthan, India  
 📫 utkarshsuman7@gmail.com  
-💻 Backend Developer | DSA Enthusiast | API Engineer  
+💻 Web Development | Backend Development | DSA Enthusiast |
 
 ---
 
@@ -38,7 +38,7 @@ Data Structures • Algorithms • OOP • Computer System Security • Web Tech
 C++ | JavaScript | Python | SQL | HTML | CSS  
 
 ### ⚙️ Backend & Development  
-Node.js | Express.js | REST APIs | PostgreSQL | MongoDB  
+Node.js | Express.js | REST APIs | PostgreSQL | 
 OAuth | Sessions & Cookies | bcrypt  
 
 ### 🧰 Tools & Platforms  
@@ -105,25 +105,16 @@ Skills: REST API Design, Express Middleware, Database Integration
 
 ## 🏅 Leadership & Extracurricular  
 
-- Presented project on scalable backend architecture at college technical fest  
+- Presented project on scalable backend architecture at college
 - Yellow Belt in Karate (Discipline & Focus)  
 - Debate participant – Presented on Ecosystem Protection  
 
 ---
 
 ## 📈 Coding Profiles  
-
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourusername  
-LeetCode: https://leetcode.com/yourusername  
-
----
-
-## 📊 GitHub Stats  
-
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+ 
+LinkedIn: https://www.linkedin.com/in/utkarsh-suman-5835a1345/  
+LeetCode: https://leetcode.com/u/UtkarshSuman/ 
 
 ---
 
